@@ -20,3 +20,4 @@ use function Ramsey\Uuid\v1;
 Route::get('/', 'blogController@index');
 Route::get('/profile', 'blogController@biodata');
 Route::get('/pengalaman', 'blogController@pengalaman');
+Route::get('/portofolio', 'blogController@portofolio');

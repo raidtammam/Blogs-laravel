@@ -25,6 +25,12 @@
         <li class="nav-item">
           <a class="nav-link" href="/profile">profile</a>
         </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/pengalaman">Pengalaman</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/portofolio">portofolio</a>
+        </li>
     </div>
   </nav>
 {{-- endNavbar --}}

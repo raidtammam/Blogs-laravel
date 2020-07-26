@@ -20,4 +20,8 @@ class blogController extends Controller
     {
         return view('pages.pengalaman');
     }
+    public function portofolio()
+    {
+        return view('pages.portofolio');
+    }
 }
